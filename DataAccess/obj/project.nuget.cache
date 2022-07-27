@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "5APw2IVF4IXu6HVQGKSAeHsCvydrV1LO7MwkCt6B/56XPCqgeG5VDjAYySKv3AoOpu2A5IXE9Nfw3Tpc6XaWYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\task10\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\intercom.dotnet.client\\2.1.1\\intercom.dotnet.client.2.1.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\restsharp\\106.5.4\\restsharp.106.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Intercom.Dotnet.Client 2.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Intercom.Dotnet.Client",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
